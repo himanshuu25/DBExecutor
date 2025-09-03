@@ -26,6 +26,7 @@ DBExecutor is a lightweight Java-based database executor tool that allows users 
 - url=YOUR_DATABASE_URL
 - user=YOUR_DB_USERNAME
 - password=YOUR_DB_PASSWORD
+- [Properties File](https://github.com/himanshuu25/DBExecutor/blob/main/SqlPlus.properties)
 
 # Compile the Java code:
 - javac -cp .;your-jdbc-driver.jar DBExecutor.java
