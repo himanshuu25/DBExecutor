@@ -9,6 +9,7 @@ DBExecutor is a lightweight Java-based database executor tool that allows users 
 - Handles SQL and unexpected errors gracefully
 - Exit the tool easily with the exit command
 - Configure any JDBC-supported database via a properties file
+- [Output Screen](https://github.com/himanshuu25/DBExecutor/blob/main/Output%20Screenshot.png)
 
 # Requirements:
 - Java JDK 8 or higher
