@@ -29,10 +29,10 @@ DBExecutor is a lightweight Java-based database executor tool that allows users 
 - [Properties File](https://github.com/himanshuu25/DBExecutor/blob/main/SqlPlus.properties)
 
 # Compile the Java code:
-- javac -cp .;your-jdbc-driver.jar DBExecutor.java
+    javac -cp .;your-jdbc-driver.jar DBExecutor.java
 
 # Run the program:
-- java -cp .;your-jdbc-driver.jar DBExecutor
+    java -cp .;your-jdbc-driver.jar DBExecutor
 
 # Notes
 - The program does not support multi-line SQL statements; enter each query on a single line.
